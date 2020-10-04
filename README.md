@@ -18,4 +18,4 @@ We decided that we will be approaching this as a basic multiple classification p
                                                            
   	  4 = Damage to infrastructure amounts to >= $24 million 
 
-The training dataset we used contains 27,000+ records of tsunami events, stored in a csv file. We used a sequential model, and we are comparing the effectiveness of different algorithms to choose the most suitable one.
+The training dataset we used contains 25,000+ records of tsunami events, stored in a csv file. We used a sequential model, and we are comparing the effectiveness of different algorithms to choose the most suitable one.
